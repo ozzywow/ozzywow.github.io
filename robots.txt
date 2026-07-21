@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://ozzywow.github.io/sitemap.xml
 Sitemap: https://ozzywow.github.io/Hanoi/sitemap.xml
+Sitemap: https://ozzywow.github.io/kw4_x/sitemap.xml
